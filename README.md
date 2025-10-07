@@ -1,11 +1,11 @@
 # To-Do List
 
-Este é um projeto de To-Do List feito com Django. Ele apresenta as seguintes funcionalidades:
+Este é um projeto de To-Do List feito com Django. Ele apresenta as seguintes funcionalidades:  
 
 * Criação de tarefas
 * Edição de tarefas
 * Marcação de tarefas como concluídas
-* Listagem de tarefas
+* Listagem de todas as tarefas
 * Detalhes de tarefas
 * Autenticação de usuários
 
