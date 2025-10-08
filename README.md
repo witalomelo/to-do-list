@@ -9,7 +9,7 @@ Este é um projeto de To-Do List feito com Django. Ele apresenta as seguintes fu
 * Detalhes de tarefas
 * Autenticação de usuários
 
-## Instalação
+## Setup
 
 Para instalar este projeto, você precisará:
 
